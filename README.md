@@ -97,41 +97,28 @@ Evaluating retrieval and generation quality using RAGAS metrics and developing b
 
 ## 🚀 Featured Projects
 
-### 📄 WillDocAI
-**Multi-Agent Document Generation**
 
-A document-generation application designed to create structured wills and support feedback-based regeneration.
+## 🚀 Featured AI Projects
 
-`Python` `FastAPI` `LangGraph` `Pydantic`
+### 1. Credit Copilot – AI-Powered Credit Risk Analysis
+🔗 [View Repository](https://github.com/Vaibhavipowar2023/credit-copilot)
 
-[View Project](YOUR_WILLDOCAI_REPOSITORY_URL)
+- AI-powered credit risk analysis platform with a RAG pipeline.
+- Parses credit agreements and automatically extracts important covenants.
+- Supports real-time breach detection.
 
-### 📚 AI Research Companion
-**AI-Powered Research Assistant**
+### 2. Sakhi Health Navigator – Agentic AI
+🔗 [View Repository](https://github.com/Vaibhavipowar2023/sakhi-health-navigator)
 
-An AI research assistant for exploring academic papers and asking questions about research content.
+- Agentic AI health navigator designed for women.
+- Routes symptoms to relevant medical specialists.
+- Ranks healthcare providers without providing diagnoses.
 
-`Python` `RAG` `FAISS` `Streamlit` `LLMs`
+### 3. Bank Relationship Manager Chatbot – RAG
+🔗 [View Repository](https://github.com/Vaibhavipowar2023/Bank-Relationship-Manager-Chatbot-using-RAG)
 
-[View Project](https://github.com/Vaibhavipowar2023/Ai-research-companion)
-
-### 🧰 OpsSage
-**Advanced RAG Learning Project**
-
-Exploring document processing, embeddings, vector search, and retrieval workflows.
-
-`Python` `FastAPI` `Qdrant` `Jina Embeddings`
-
-[View Project](YOUR_OPSSAGE_REPOSITORY_URL)
-
-### 🎧 Voice AI Platform
-**Real-Time Multilingual Conversational AI**
-
-Professional experience building voice workflows integrating speech recognition, language models, and speech synthesis.
-
-`Python` `Pipecat` `STT` `LLMs` `TTS`
-
-*Professional work; source code may not be publicly available.*
+- RAG-based chatbot designed for banking relationship management.
+- Demonstrates the application of retrieval-augmented generation in banking.
 
 ---
 
